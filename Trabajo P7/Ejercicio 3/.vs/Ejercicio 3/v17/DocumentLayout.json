@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01089644-9817-4C10-B33B-DAB0529BF365}|Ejercicio 3\\Ejercicio 3.csproj|c:\\users\\sabri\\onedrive\\documentos\\lab y proy\\cedron agustina-proyecto\\trabajo p7\\ejercicio 3\\ejercicio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01089644-9817-4C10-B33B-DAB0529BF365}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01089644-9817-4C10-B33B-DAB0529BF365}|Ejercicio 3\\Ejercicio 3.csproj|C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\ejercicio 3\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01089644-9817-4C10-B33B-DAB0529BF365}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01089644-9817-4C10-B33B-DAB0529BF365}|Ejercicio 3\\Ejercicio 3.csproj|C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\ejercicio 3\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01089644-9817-4C10-B33B-DAB0529BF365}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01089644-9817-4C10-B33B-DAB0529BF365}|Ejercicio 3\\Ejercicio 3.csproj|C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\ejercicio 3\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01089644-9817-4C10-B33B-DAB0529BF365}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\Ejercicio 3\\modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "Ejercicio 3\\modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\Ejercicio 3\\modelo\\Usuario.cs",
+              "RelativeToolTip": "Ejercicio 3\\modelo\\Usuario.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:07:25.738Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\Ejercicio 3\\modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio 3\\modelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\Ejercicio 3\\modelo\\Producto.cs",
+              "RelativeToolTip": "Ejercicio 3\\modelo\\Producto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:08:32.731Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\Ejercicio 3\\modelo\\Pedido.cs",
+              "RelativeDocumentMoniker": "Ejercicio 3\\modelo\\Pedido.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\Ejercicio 3\\modelo\\Pedido.cs",
+              "RelativeToolTip": "Ejercicio 3\\modelo\\Pedido.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:08:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\Ejercicio 3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio 3\\Program.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P7\\Ejercicio 3\\Ejercicio 3\\Program.cs",
+              "RelativeToolTip": "Ejercicio 3\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:57:12.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
